@@ -33,3 +33,4 @@ last example needs a JSON body for the request with an account e.g.
 }
 
 ```
+Tested using Postman 
